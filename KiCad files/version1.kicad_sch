@@ -3894,9 +3894,9 @@
 		)
 		(uuid f74a812d-9f40-4906-9904-43a5dc29a65a)
 	)
-	(text "ISP connector\n"
+	(text "Programming connector\n"
 		(exclude_from_sim no)
-		(at 223.52 82.55 0)
+		(at 196.088 85.852 0)
 		(effects
 			(font
 				(size 2.5 2.5)
@@ -3905,9 +3905,9 @@
 		)
 		(uuid "0b2ef278-d52a-4751-a6a6-8168bc8182c3")
 	)
-	(text "Charg Unit"
+	(text "Charging Unit"
 		(exclude_from_sim no)
-		(at 15.24 87.63 0)
+		(at 16.002 86.868 0)
 		(effects
 			(font
 				(size 2.3 2.3)
@@ -3916,9 +3916,9 @@
 		)
 		(uuid "49f0782e-11dd-4fde-b656-468965352206")
 	)
-	(text "Motor2\n"
+	(text "Motor2 driver unit\n"
 		(exclude_from_sim no)
-		(at 230.886 158.242 0)
+		(at 220.218 161.036 0)
 		(effects
 			(font
 				(size 2.5 2.5)
@@ -3927,9 +3927,9 @@
 		)
 		(uuid "4aa9523a-8814-466b-ab70-71d196e9a855")
 	)
-	(text "ATtiny 13 MCU unit\n"
+	(text "ATtiny13A Microcontroller Unit\n\n"
 		(exclude_from_sim no)
-		(at 124.46 85.09 0)
+		(at 107.95 90.17 0)
 		(effects
 			(font
 				(size 2.5 2.5)
@@ -3938,9 +3938,9 @@
 		)
 		(uuid "5575bb04-8b6b-4eb5-beae-0232211a148d")
 	)
-	(text "LDR unit"
+	(text "LI sensors unit"
 		(exclude_from_sim no)
-		(at 49.53 162.56 0)
+		(at 46.99 162.814 0)
 		(effects
 			(font
 				(size 2.5 2.5)
@@ -3982,9 +3982,9 @@
 		)
 		(uuid "b065e821-bd91-4c79-bc87-da54c5a36a94")
 	)
-	(text "Motor1\n"
+	(text "Motor1 driver unit\n\n"
 		(exclude_from_sim no)
-		(at 136.652 160.528 0)
+		(at 127.254 165.354 0)
 		(effects
 			(font
 				(size 2.5 2.5)
