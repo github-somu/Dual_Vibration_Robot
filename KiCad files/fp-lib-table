@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "BatteryHolder_THT")(type "KiCad")(uri "${KIPRJMOD}/BatteryHolder_THT.pretty")(options "")(descr ""))
+  (lib (name "VibrationMotor_THT")(type "KiCad")(uri "${KIPRJMOD}/VibrationMotor_THT.pretty")(options "")(descr ""))
+  (lib (name "SwitchFootPrint_THT")(type "KiCad")(uri "${KIPRJMOD}/SwitchFootPrint_THT.pretty")(options "")(descr ""))
+  (lib (name "ATTINY13A-SSU")(type "KiCad")(uri "${KIPRJMOD}/ATTINY13A-SSU")(options "")(descr ""))
+  (lib (name "FDN337N")(type "KiCad")(uri "${KIPRJMOD}/FDN337N")(options "")(descr ""))
+  (lib (name "TP4056-42-ESOP8")(type "KiCad")(uri "${KIPRJMOD}/TP4056-42-ESOP8")(options "")(descr ""))
+)

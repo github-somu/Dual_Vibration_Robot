@@ -1,0 +1,14 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+D1,Red LED,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,96.4,-115.5,90,bottom
+D2,Green LED,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,103.6588,-115.5018,90,bottom
+R1,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,97.4135,-122.5,0,bottom
+R2,680,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,102,-121.5,180,bottom
+R3,680,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,102,-123.5,180,bottom
+U1,TP4056-42-ESOP8,SOIC127P600X175-9N,100.025,-127.5333,180,bottom
+C1,10uf,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,102.4625,-121.5,0,top
+Q2,FDN337N,SSOT-3,97.3581,-120.2716,90,top
+R7,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,102.5,-119.5,180,top
+R8,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,100,-94.85,-90,top
+R9,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,99.9893,-115,90,top
+R10,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,100,-135,90,top
+U2,ATtiny13A-SS,SOIC127P798X216-8N,100.0745,-125.2102,180,top
